@@ -1,0 +1,68 @@
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  /*! background: #dff8f8; */
+}
+.container {
+  /*! background: beige; */
+  width: 1000px;
+  margin: auto;
+}
+.header {width: 1000px;
+  margin: auto;
+}
+.logo {
+  width: 20%;
+  margin-top: 10px;
+  float: left;
+}
+.logo img{}
+.menu {
+  width: 80%;
+  float: right;
+  margin: 0px;
+}
+.menu ul {
+  margin: 0px;
+  padding: 0px;
+}
+.menu ul li {
+  list-style-type: none;
+  float: right;
+  margin: 10px;
+}
+.menu ul li a {text-decoration: none;
+  color: #7a6767;
+  font-size: 17px;
+}
+
+.banner img {width: 100%;}
+.about-us{padding-bottom: 100px;padding-top: 90px;}
+.about-us span{color: #685a5a;text-transform: uppercase;font-size: 18px;}
+.about-us p{color: #685a5a;font-size: 18px;}
+.about-us h1{text-transform: uppercase;font-size: 25px;color: black;}
+.wrapper{background: bisque;width: 100%;}
+.photo-1 {width: 50%;float: left;overflow: hidden;}
+.photo-1 img{/*! float: left; *//*! width: 600px; */}
+.photo-2{width: 50%;float: right;overflow: hidden;}
+.photo-2 img{margin-left: 15%;float: right;}
+.lifestyle {width: 1000px;}
+.left{width: 50%;/*! float: left; */}
+.left span {color: #685a5a;text-transform: uppercase;font-size: 20px;}
+.left p{color: #685a5a;font-size: 20px;}
+.left h1{color: black;font-size: 25px;text-transform: uppercase;}
+.right{width: 50%;float: right;overflow: hidden;}
+.right span{color: #685a5a;font-size: 20px;}
+.right p{font-size: 20px;color: #685a5a;}
+.right h1{color: black;font-size: 25px;text-transform: uppercase;}
+.footer{margin-top: 20%;}
+.Terms{background: #2f2c2c1a;width: 100%;margin: auto;/*! width: 30%; */overflow: hidden;}
+.Terms ul{margin: 0px;padding: 0px;list-style-type: none;/*! padding: 10px; */}
+.Term ul li{}
+.Terms ul li span{list-style-type: none;float: left;padding: 10px;font-size: 15px;color: #000000b3;}
+.icon {width: 50%;float: right;margin: auto;/*! margin-bottom: 10%; */}
+.icon ul{list-style-type: none;float: right;}
+.icon ul li{float: left;padding: 20px;}
+.icon ul li img{width: 30px;}
